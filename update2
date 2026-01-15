@@ -1,0 +1,467 @@
+
+
+
+
+
+{
+  "tournament": "ISPL T10 2026",
+  "season": "2026",
+  "source": "ISPL OFFICIAL",
+  "global_streaming_links": [
+    "https://tv4go.pages.dev/?id=hotstar",
+    "https://tv4go.pages.dev/?id=sts1h",
+    "https://tv4go.pages.dev/?id=sts1h1",
+    "https://tv4go.pages.dev/?id=sts1",
+    "https://tv4go.pages.dev/?id=sts2",
+    "https://tv4go.pages.dev/?id=willowsports",
+    "https://tv4go.pages.dev/?id=willowsports1"
+  ],
+  "matches": [
+    {
+      "match_no": 1,
+      "date": "2026-01-09",
+      "time": "8:00 pm",
+      "home_team": "Majhi Mumbai",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 2,
+      "date": "2026-01-10",
+      "time": "5:30 pm",
+      "home_team": "Srinagar Ke Veer",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "away_team": "Ahmedabad Lions",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "stage": "T10"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-01-10",
+      "time": "8:00 pm",
+      "home_team": "Tiigers of Kolkata",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "away_team": "Chennai Singams",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-01-11",
+      "time": "5:30 pm",
+      "home_team": "Ahmedabad Lions",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "away_team": "Delhi Superheros",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-01-11",
+      "time": "8:00 pm",
+      "home_team": "Falcon Risers Hyderabad",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "away_team": "Bengaluru Strikers",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 6,
+      "date": "2026-01-12",
+      "time": "8:00 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Majhi Mumbai",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 7,
+      "date": "2026-01-13",
+      "time": "8:00 pm",
+      "home_team": "Bengaluru Strikers",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "away_team": "Delhi Superheros",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 8,
+      "date": "2026-01-14",
+      "time": "8:00 pm",
+      "home_team": "Majhi Mumbai",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "away_team": "Falcon Risers Hyderabad",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 9,
+      "date": "2026-01-15",
+      "time": "5:30 pm",
+      "home_team": "Bengaluru Strikers",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "away_team": "Tiigers of Kolkata",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 10,
+      "date": "2026-01-15",
+      "time": "8:00 pm",
+      "home_team": "Chennai Singams",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "away_team": "Falcon Risers Hyderabad",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 11,
+      "date": "2026-01-16",
+      "time": "5:30 pm",
+      "home_team": "Srinagar Ke Veer",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "away_team": "Tiigers of Kolkata",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 12,
+      "date": "2026-01-16",
+      "time": "8:00 pm",
+      "home_team": "Majhi Mumbai",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "away_team": "Ahmedabad Lions",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "stage": "T10"
+    },
+    {
+      "match_no": 13,
+      "date": "2026-01-17",
+      "time": "5:30 pm",
+      "home_team": "Chennai Singams",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "away_team": "Majhi Mumbai",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 14,
+      "date": "2026-01-17",
+      "time": "8:00 pm",
+      "home_team": "Ahmedabad Lions",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "away_team": "Bengaluru Strikers",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 15,
+      "date": "2026-01-18",
+      "time": "5:30 pm",
+      "home_team": "Majhi Mumbai",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 16,
+      "date": "2026-01-18",
+      "time": "8:00 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Falcon Risers Hyderabad",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 17,
+      "date": "2026-01-19",
+      "time": "8:00 pm",
+      "home_team": "Ahmedabad Lions",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "away_team": "Chennai Singams",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 18,
+      "date": "2026-01-20",
+      "time": "8:00 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Chennai Singams",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 19,
+      "date": "2026-01-21",
+      "time": "8:00 pm",
+      "home_team": "Falcon Risers Hyderabad",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 20,
+      "date": "2026-01-22",
+      "time": "5:30 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Ahmedabad Lions",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "stage": "T10"
+    },
+    {
+      "match_no": 21,
+      "date": "2026-01-22",
+      "time": "8:00 pm",
+      "home_team": "Chennai Singams",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "away_team": "Bengaluru Strikers",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 22,
+      "date": "2026-01-23",
+      "time": "5:30 pm",
+      "home_team": "Tiigers of Kolkata",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "away_team": "Majhi Mumbai",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 23,
+      "date": "2026-01-23",
+      "time": "8:00 pm",
+      "home_team": "Bengaluru Strikers",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 24,
+      "date": "2026-01-24",
+      "time": "5:30 pm",
+      "home_team": "Chennai Singams",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 25,
+      "date": "2026-01-24",
+      "time": "8:00 pm",
+      "home_team": "Falcon Risers Hyderabad",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "away_team": "Majhi Mumbai",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 26,
+      "date": "2026-01-25",
+      "time": "5:30 pm",
+      "home_team": "Falcon Risers Hyderabad",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "away_team": "Tiigers of Kolkata",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 27,
+      "date": "2026-01-25",
+      "time": "8:00 pm",
+      "home_team": "Bengaluru Strikers",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "away_team": "Chennai Singams",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 28,
+      "date": "2026-01-26",
+      "time": "8:00 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Tiigers of Kolkata",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 29,
+      "date": "2026-01-27",
+      "time": "8:00 pm",
+      "home_team": "Falcon Risers Hyderabad",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "away_team": "Srinagar Ke Veer",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 30,
+      "date": "2026-01-28",
+      "time": "8:00 pm",
+      "home_team": "Ahmedabad Lions",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "away_team": "Bengaluru Strikers",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 31,
+      "date": "2026-01-29",
+      "time": "5:30 pm",
+      "home_team": "Srinagar Ke Veer",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "away_team": "Delhi Superheros",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 32,
+      "date": "2026-01-29",
+      "time": "8:00 pm",
+      "home_team": "Tiigers of Kolkata",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "away_team": "Majhi Mumbai",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 33,
+      "date": "2026-01-30",
+      "time": "5:30 pm",
+      "home_team": "Delhi Superheros",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "away_team": "Chennai Singams",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 34,
+      "date": "2026-01-30",
+      "time": "8:00 pm",
+      "home_team": "Srinagar Ke Veer",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5tS34-6VAWUUmz49kTjMz2KLCovJkF-25W1cFcr82Q&s=10",
+      "away_team": "Tiigers of Kolkata",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 35,
+      "date": "2026-01-31",
+      "time": "5:30 pm",
+      "home_team": "Bengaluru Strikers",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "away_team": "Delhi Superheros",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aa0Vj0AoRQdoS8Y2HI2SoJ8rfYoSJGnfoLDM1Fr-Vg&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 36,
+      "date": "2026-01-31",
+      "time": "8:00 pm",
+      "home_team": "Ahmedabad Lions",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "away_team": "Falcon Risers Hyderabad",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 37,
+      "date": "2026-02-01",
+      "time": "5:30 pm",
+      "home_team": "Tiigers of Kolkata",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "away_team": "Ahmedabad Lions",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "stage": "T10"
+    },
+    {
+      "match_no": 38,
+      "date": "2026-02-01",
+      "time": "8:00 pm",
+      "home_team": "Majhi Mumbai",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT9cPeIY2UwuAoyv408L6D9CcofyIyDsC06rvNR-CxQ&s=10",
+      "away_team": "Bengaluru Strikers",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YQRPr3lhveFo5a-PAuGcgJXM3ucXkCUdP78coZZl4Q&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 39,
+      "date": "2026-02-02",
+      "time": "5:30 pm",
+      "home_team": "Chennai Singams",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATdI0Tqd_Aaznwnf7skCnXGBqBHpROS37ai8E4N7gIQ&s=10",
+      "away_team": "Ahmedabad Lions",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAKb-Gcmw-1FMq_YiEz38NaC2_e149e31AQgrt2qu-Q&s",
+      "stage": "T10"
+    },
+    {
+      "match_no": 40,
+      "date": "2026-02-02",
+      "time": "8:00 pm",
+      "home_team": "Tiigers of Kolkata",
+      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcigC-ODqbWB2e0n726y7Auv5ZlJp5i0CgZfxbxQPM6g&s=10",
+      "away_team": "Falcon Risers Hyderabad",
+      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FuD-rBvknoybkdF4gEgZ2IErlMrHAeGS0n47loxcRVxWFzSQxr-Yz0qU&s=10",
+      "stage": "T10"
+    },
+    {
+      "match_no": 41,
+      "date": "2026-02-03",
+      "time": "7:00 pm",
+      "home_team": "TBC",
+      "home_team_logo": "blank",
+      "away_team": "TBC",
+      "away_team_logo": "blank",
+      "stage": "Qualifier 1"
+    },
+    {
+      "match_no": 42,
+      "date": "2026-02-04",
+      "time": "7:00 pm",
+      "home_team": "TBC",
+      "home_team_logo": "blank",
+      "away_team": "TBC",
+      "away_team_logo": "blank",
+      "stage": "Eliminator"
+    },
+    {
+      "match_no": 43,
+      "date": "2026-02-05",
+      "time": "7:00 pm",
+      "home_team": "TBC",
+      "home_team_logo": "blank",
+      "away_team": "TBC",
+      "away_team_logo": "blank",
+      "stage": "Qualifier 2"
+    },
+    {
+      "match_no": 44,
+      "date": "2026-02-06",
+      "time": "7:00 pm",
+      "home_team": "TBC",
+      "home_team_logo": "blank",
+      "away_team": "TBC",
+      "away_team_logo": "blank",
+      "stage": "Final"
+    }
+  ]
+}
+
+
+
+
+
+
