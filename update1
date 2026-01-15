@@ -1,0 +1,260 @@
+
+
+
+
+
+{
+  "tournament": "TATA WPL 2026",
+  "season": "2026",
+  "source": "HOTSTAR STAR SPORTS 2",
+  "global_streaming_links":
+   [
+  
+    {
+      "name": "Star 1 hindi",
+      "url": "https://tv4go.pages.dev/?id=sts1h",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg"
+    },
+    
+         { "name": "Star 1 hindi",
+      "url": "https://tv4go.pages.dev/?id=sts1h1",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg"
+    },
+   
+    {
+      "name": "Star 1 ENG",
+      "url": "https://tv4go.pages.dev/?id=sts1",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg"
+    }
+   
+
+  ],
+  
+  "matches": [
+    {
+      "match_no": 1,
+      "date": "2026-01-09",
+      "time": "7:00 pm",
+      "home_team": "Mumbai Indians",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "away_team": "Royal Challengers Bengaluru",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 2,
+      "date": "2026-01-10",
+      "time": "2:30 pm",
+      "home_team": "UP Warriorz",
+      "home_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "away_team": "Gujarat Giants",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "stage": "T20"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-01-10",
+      "time": "7:00 pm",
+      "home_team": "Mumbai Indians",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "away_team": "Delhi Capitals",
+      "away_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-01-11",
+      "time": "7:00 pm",
+      "home_team": "Delhi Capitals",
+      "home_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "away_team": "Gujarat Giants",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "stage": "T20"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-01-12",
+      "time": "7:00 pm",
+      "home_team": "Royal Challengers Bengaluru",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "away_team": "UP Warriorz",
+      "away_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 6,
+      "date": "2026-01-13",
+      "time": "7:00 pm",
+      "home_team": "Mumbai Indians",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "away_team": "Gujarat Giants",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "stage": "T20"
+    },
+    {
+      "match_no": 7,
+      "date": "2026-01-14",
+      "time": "7:00 pm",
+      "home_team": "UP Warriorz",
+      "home_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "away_team": "Delhi Capitals",
+      "away_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 8,
+      "date": "2026-01-15",
+      "time": "7:00 pm",
+      "home_team": "Mumbai Indians",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "away_team": "UP Warriorz",
+      "away_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 9,
+      "date": "2026-01-16",
+      "time": "7:00 pm",
+      "home_team": "Royal Challengers Bengaluru",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "away_team": "Gujarat Giants",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "stage": "T20"
+    },
+    {
+      "match_no": 10,
+      "date": "2026-01-17",
+      "time": "2:30 pm",
+      "home_team": "UP Warriorz",
+      "home_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "away_team": "Mumbai Indians",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 11,
+      "date": "2026-01-17",
+      "time": "7:00 pm",
+      "home_team": "Delhi Capitals",
+      "home_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "away_team": "Royal Challengers Bengaluru",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 12,
+      "date": "2026-01-19",
+      "time": "7:00 pm",
+      "home_team": "Gujarat Giants",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "away_team": "Royal Challengers Bengaluru",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 13,
+      "date": "2026-01-20",
+      "time": "7:00 pm",
+      "home_team": "Delhi Capitals",
+      "home_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "away_team": "Mumbai Indians",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 14,
+      "date": "2026-01-22",
+      "time": "7:00 pm",
+      "home_team": "Gujarat Giants",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "away_team": "UP Warriorz",
+      "away_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 15,
+      "date": "2026-01-24",
+      "time": "7:00 pm",
+      "home_team": "Royal Challengers Bengaluru",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "away_team": "Delhi Capitals",
+      "away_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 16,
+      "date": "2026-01-26",
+      "time": "7:00 pm",
+      "home_team": "Royal Challengers Bengaluru",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "away_team": "Mumbai Indians",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 17,
+      "date": "2026-01-27",
+      "time": "7:00 pm",
+      "home_team": "Gujarat Giants",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "away_team": "Delhi Capitals",
+      "away_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 18,
+      "date": "2026-01-29",
+      "time": "7:00 pm",
+      "home_team": "UP Warriorz",
+      "home_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "away_team": "Royal Challengers Bengaluru",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3513.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 19,
+      "date": "2026-01-30",
+      "time": "7:00 pm",
+      "home_team": "Gujarat Giants",
+      "home_team_logo": "https://www.wplt20.com/static-assets/images/teams/3515.png?v=51.06",
+      "away_team": "Mumbai Indians",
+      "away_team_logo": "https://www.wplt20.com/static-assets/images/teams/3517.png?v=51.11",
+      "stage": "T20"
+    },
+    {
+      "match_no": 20,
+      "date": "2026-02-01",
+      "time": "7:00 pm",
+      "home_team": "Delhi Capitals",
+      "home_team_logo": "https://i.pinimg.com/736x/59/6a/7f/596a7fc1c590d81887ef78ce77b19e46.jpg",
+      "away_team": "UP Warriorz",
+      "away_team_logo": "https://www.newsx.com/wp-content/uploads/2025/11/west-bengal-sir-2025-4.jpg",
+      "stage": "T20"
+    },
+    {
+      "match_no": 21,
+      "date": "2026-02-03",
+      "time": "7:00 pm",
+      "home_team": "TBD",
+      "home_team_logo": "https://www.wplt20.com/static-assets/waf-images/d9/b0/1c/1-1/9xtQQPOt6a.jpeg?v=50.14&w=1024",
+      "away_team": "TBD",
+      "away_team_logo": "https://www.wplt20.com/static-assets/waf-images/d9/b0/1c/1-1/9xtQQPOt6a.jpeg?v=50.14&w=1024",
+      "stage": "T20"
+    },
+    {
+      "match_no": 22,
+      "date": "2026-02-05",
+      "time": "7:00 pm",
+      "home_team": "TBD",
+      "home_team_logo": "https://www.wplt20.com/static-assets/waf-images/d9/b0/1c/1-1/9xtQQPOt6a.jpeg?v=50.14&w=1024",
+      "away_team": "TBD",
+      "away_team_logo": "https://www.wplt20.com/static-assets/waf-images/d9/b0/1c/1-1/9xtQQPOt6a.jpeg?v=50.14&w=1024",
+      "stage": "T20"
+    }
+  ]
+}
+
+
+
+
+
