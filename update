@@ -2,9 +2,9 @@
 
 
 {
-  "tournament": "New Zealand tour of India, 2026",
+  "tournament": "name of tournament , 2026",
   "season": "2026",
-  "source": "HOTSTAR STAR SPORTS 2",
+  "source": "hotstar sonyliv other",
   "global_streaming_links": 
   [
   
@@ -55,7 +55,7 @@
       "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
       "away_team": "New Zealand",
       "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "ODI"
+      "stage": "T20"
     },
     {
       "match_no": 2,
@@ -75,7 +75,7 @@
       "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
       "away_team": "New Zealand",
       "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "ODI"
+      "stage": "TEST"
     },
     {
       "match_no": 4,
@@ -85,47 +85,7 @@
       "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
       "away_team": "New Zealand",
       "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "T20"
-    },
-    {
-      "match_no": 5,
-      "date": "2026-01-23",
-      "time": "7:00 PM",
-      "home_team": "India",
-      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
-      "away_team": "New Zealand",
-      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "T20"
-    },
-    {
-      "match_no": 6,
-      "date": "2026-01-25",
-      "time": "7:00 PM",
-      "home_team": "India",
-      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
-      "away_team": "New Zealand",
-      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "T20"
-    },
-    {
-      "match_no": 7,
-      "date": "2026-01-28",
-      "time": "7:00 PM",
-      "home_team": "India",
-      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
-      "away_team": "New Zealand",
-      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "T20"
-    },
-    {
-      "match_no": 8,
-      "date": "2026-01-31",
-      "time": "7:00 PM",
-      "home_team": "India",
-      "home_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl8dvdt06lf9XoyNvM_hZAXvr26hRTEupF-ZaDVJcTsXk1i5QHBM5wRwX&s=10",
-      "away_team": "New Zealand",
-      "away_team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdtRMMuVYY6NpnrW27shhQsGQqgcH4hM37MTMAFPA406kL2tw2-JK-fI17zQ&s=10",
-      "stage": "T20"
+      "stage": "T10"
     }
   ]
 }
