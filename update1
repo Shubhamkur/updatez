@@ -1,7 +1,7 @@
 {
-  "tournament": "ICC MEN'S T20 WORLD CUP INDIA & SRI LANKA 2026",
+  "tournament": "ICC Men's T20 World Cup, 2026",
   "season": "2026",
-  "source": "JioCinema & STAR SPORTS",
+  "source": "JioHotstar",
   "global_streaming_links": [
     {
       "name": "Hotstar",
@@ -14,12 +14,12 @@
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/cricbuzz1.png"
     },
     {
-      "name": "Sky nz1 ",
+      "name": "Sky nz1",
       "url": "https://tv4go.pages.dev/?id=skynz1",
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skynz1.png"
     },
     {
-      "name": "Tnt4 ",
+      "name": "Tnt4",
       "url": "https://tv4go.pages.dev/?id=tnt4",
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tnt4.jpeg"
     },
@@ -29,7 +29,7 @@
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg"
     },
     {
-      "name": " WILLOW SPORTS",
+      "name": "WILLOW SPORTS",
       "url": "https://tv4go.pages.dev/?id=willowsports",
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowsports.jpg"
     }
@@ -37,143 +37,123 @@
   "matches": [
     {
       "match_no": 1,
-      "date": "2026-02-07",
-      "time": "11:00 AM",
-      "home_team": "Pakistan",
-      "home_team_logo": "https://flagcdn.com/w320/pk.png",
-      "away_team": "Netherlands",
-      "away_team_logo": "https://flagcdn.com/w320/nl.png",
-      "stage": "T20"
+      "date": "2026-02-21",
+      "time": "7:00 PM",
+      "home_team": "New Zealand",
+      "home_team_logo": "https://flagcdn.com/w320/nz.png",
+      "away_team": "Pakistan/USA",
+      "away_team_logo": "https://flagcdn.com/w320/pk.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 2,
-      "date": "2026-02-07",
-      "time": "3:00 PM",
-      "home_team": "West Indies",
-      "home_team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Cricket_West_Indies_Logo_2017.png/200px-Cricket_West_Indies_Logo_2017.png",
-      "away_team": "Bangladesh",
-      "away_team_logo": "https://flagcdn.com/w320/bd.png",
-      "stage": "T20"
-    },
-    {
-      "match_no": 3,
-      "date": "2026-02-07",
-      "time": "7:00 PM",
-      "home_team": "India",
-      "home_team_logo": "https://flagcdn.com/w320/in.png",
-      "away_team": "USA",
-      "away_team_logo": "https://flagcdn.com/w320/us.png",
-      "stage": "T20"
-    },
-    {
-      "match_no": 4,
-      "date": "2026-02-08",
-      "time": "11:00 AM",
-      "home_team": "New Zealand",
-      "home_team_logo": "https://flagcdn.com/w320/nz.png",
-      "away_team": "Afghanistan",
-      "away_team_logo": "https://flagcdn.com/w320/af.png",
-      "stage": "T20"
-    },
-    {
-      "match_no": 5,
-      "date": "2026-02-08",
+      "date": "2026-02-22",
       "time": "3:00 PM",
       "home_team": "England",
       "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
-      "away_team": "Nepal",
-      "away_team_logo": "https://flagcdn.com/w320/np.png",
-      "stage": "T20"
+      "away_team": "Sri Lanka",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "stage": "Super 8"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-02-22",
+      "time": "7:00 PM",
+      "home_team": "India",
+      "home_team_logo": "https://flagcdn.com/w320/in.png",
+      "away_team": "South Africa",
+      "away_team_logo": "https://flagcdn.com/w320/za.png",
+      "stage": "Super 8"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-02-23",
+      "time": "7:00 PM",
+      "home_team": "Zimbabwe",
+      "home_team_logo": "https://flagcdn.com/w320/zw.png",
+      "away_team": "West Indies",
+      "away_team_logo": "https://flagcdn.com/w320/vg.png",
+      "stage": "Super 8"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-02-24",
+      "time": "7:00 PM",
+      "home_team": "England",
+      "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
+      "away_team": "Pakistan/USA",
+      "away_team_logo": "https://flagcdn.com/w320/pk.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 6,
-      "date": "2026-02-08",
+      "date": "2026-02-25",
       "time": "7:00 PM",
-      "home_team": "Sri Lanka",
-      "home_team_logo": "https://flagcdn.com/w320/lk.png",
-      "away_team": "Ireland",
-      "away_team_logo": "https://flagcdn.com/w320/ie.png",
-      "stage": "T20"
+      "home_team": "New Zealand",
+      "home_team_logo": "https://flagcdn.com/w320/nz.png",
+      "away_team": "Sri Lanka",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 7,
-      "date": "2026-02-09",
-      "time": "11:00 AM",
-      "home_team": "Bangladesh",
-      "home_team_logo": "https://flagcdn.com/w320/bd.png",
-      "away_team": "Italy",
-      "away_team_logo": "https://flagcdn.com/w320/it.png",
-      "stage": "T20"
+      "date": "2026-02-26",
+      "time": "3:00 PM",
+      "home_team": "West Indies",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "South Africa",
+      "away_team_logo": "https://flagcdn.com/w320/za.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 8,
-      "date": "2026-02-09",
-      "time": "3:00 PM",
-      "home_team": "Zimbabwe",
-      "home_team_logo": "https://flagcdn.com/w320/zw.png",
-      "away_team": "Oman",
-      "away_team_logo": "https://flagcdn.com/w320/om.png",
-      "stage": "T20"
+      "date": "2026-02-26",
+      "time": "7:00 PM",
+      "home_team": "India",
+      "home_team_logo": "https://flagcdn.com/w320/in.png",
+      "away_team": "Zimbabwe",
+      "away_team_logo": "https://flagcdn.com/w320/zw.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 9,
-      "date": "2026-02-09",
+      "date": "2026-02-27",
       "time": "7:00 PM",
-      "home_team": "South Africa",
-      "home_team_logo": "https://flagcdn.com/w320/za.png",
-      "away_team": "Canada",
-      "away_team_logo": "https://flagcdn.com/w320/ca.png",
-      "stage": "T20"
+      "home_team": "England",
+      "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
+      "away_team": "New Zealand",
+      "away_team_logo": "https://flagcdn.com/w320/nz.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 10,
-      "date": "2026-02-10",
-      "time": "11:00 AM",
-      "home_team": "Netherlands",
-      "home_team_logo": "https://flagcdn.com/w320/nl.png",
-      "away_team": "Namibia",
-      "away_team_logo": "https://flagcdn.com/w320/na.png",
-      "stage": "T20"
+      "date": "2026-02-28",
+      "time": "7:00 PM",
+      "home_team": "Pakistan/USA",
+      "home_team_logo": "https://flagcdn.com/w320/pk.png",
+      "away_team": "Sri Lanka",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 11,
-      "date": "2026-02-10",
+      "date": "2026-03-01",
       "time": "3:00 PM",
-      "home_team": "New Zealand",
-      "home_team_logo": "https://flagcdn.com/w320/nz.png",
-      "away_team": "UAE",
-      "away_team_logo": "https://flagcdn.com/w320/ae.png",
-      "stage": "T20"
+      "home_team": "Zimbabwe",
+      "home_team_logo": "https://flagcdn.com/w320/zw.png",
+      "away_team": "South Africa",
+      "away_team_logo": "https://flagcdn.com/w320/za.png",
+      "stage": "Super 8"
     },
     {
       "match_no": 12,
-      "date": "2026-02-10",
+      "date": "2026-03-01",
       "time": "7:00 PM",
-      "home_team": "Pakistan",
-      "home_team_logo": "https://flagcdn.com/w320/pk.png",
-      "away_team": "USA",
-      "away_team_logo": "https://flagcdn.com/w320/us.png",
-      "stage": "T20"
-    },
-    {
-      "match_no": 13,
-      "date": "2026-02-11",
-      "time": "11:00 AM",
-      "home_team": "South Africa",
-      "home_team_logo": "https://flagcdn.com/w320/za.png",
-      "away_team": "Afghanistan",
-      "away_team_logo": "https://flagcdn.com/w320/af.png",
-      "stage": "T20"
-    },
-    {
-      "match_no": 14,
-      "date": "2026-02-11",
-      "time": "3:00 PM",
-      "home_team": "Australia",
-      "home_team_logo": "https://flagcdn.com/w320/au.png",
-      "away_team": "Ireland",
-      "away_team_logo": "https://flagcdn.com/w320/ie.png",
-      "stage": "T20"
+      "home_team": "India",
+      "home_team_logo": "https://flagcdn.com/w320/in.png",
+      "away_team": "West Indies",
+      "away_team_logo": "https://flagcdn.com/w320/vg.png",
+      "stage": "Super 8"
     }
   ]
 }
