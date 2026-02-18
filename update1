@@ -41,9 +41,10 @@
       "time": "7:00 PM",
       "home_team": "New Zealand",
       "home_team_logo": "https://flagcdn.com/w320/nz.png",
-      "away_team": "Pakistan/USA",
+      "away_team": "Pakistan",
       "away_team_logo": "https://flagcdn.com/w320/pk.png",
-      "stage": "Super 8"
+      "venue": "R. Premadasa Stadium, Colombo",
+      "stage": "T20"
     },
     {
       "match_no": 2,
@@ -53,7 +54,8 @@
       "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
       "away_team": "Sri Lanka",
       "away_team_logo": "https://flagcdn.com/w320/lk.png",
-      "stage": "Super 8"
+      "venue": "Pallekele International Stadium, Kandy",
+      "stage": "T20"
     },
     {
       "match_no": 3,
@@ -63,7 +65,8 @@
       "home_team_logo": "https://flagcdn.com/w320/in.png",
       "away_team": "South Africa",
       "away_team_logo": "https://flagcdn.com/w320/za.png",
-      "stage": "Super 8"
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "stage": "T20"
     },
     {
       "match_no": 4,
@@ -73,7 +76,8 @@
       "home_team_logo": "https://flagcdn.com/w320/zw.png",
       "away_team": "West Indies",
       "away_team_logo": "https://flagcdn.com/w320/vg.png",
-      "stage": "Super 8"
+      "venue": "Wankhede Stadium, Mumbai",
+      "stage": "T20"
     },
     {
       "match_no": 5,
@@ -81,9 +85,10 @@
       "time": "7:00 PM",
       "home_team": "England",
       "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
-      "away_team": "Pakistan/USA",
+      "away_team": "Pakistan",
       "away_team_logo": "https://flagcdn.com/w320/pk.png",
-      "stage": "Super 8"
+      "venue": "Pallekele International Stadium, Kandy",
+      "stage": "T20"
     },
     {
       "match_no": 6,
@@ -93,7 +98,8 @@
       "home_team_logo": "https://flagcdn.com/w320/nz.png",
       "away_team": "Sri Lanka",
       "away_team_logo": "https://flagcdn.com/w320/lk.png",
-      "stage": "Super 8"
+      "venue": "R. Premadasa Stadium, Colombo",
+      "stage": "T20"
     },
     {
       "match_no": 7,
@@ -103,7 +109,8 @@
       "home_team_logo": "https://flagcdn.com/w320/vg.png",
       "away_team": "South Africa",
       "away_team_logo": "https://flagcdn.com/w320/za.png",
-      "stage": "Super 8"
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "stage": "T20"
     },
     {
       "match_no": 8,
@@ -113,7 +120,8 @@
       "home_team_logo": "https://flagcdn.com/w320/in.png",
       "away_team": "Zimbabwe",
       "away_team_logo": "https://flagcdn.com/w320/zw.png",
-      "stage": "Super 8"
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "stage": "T20"
     },
     {
       "match_no": 9,
@@ -123,17 +131,19 @@
       "home_team_logo": "https://flagcdn.com/w320/gb-eng.png",
       "away_team": "New Zealand",
       "away_team_logo": "https://flagcdn.com/w320/nz.png",
-      "stage": "Super 8"
+      "venue": "R. Premadasa Stadium, Colombo",
+      "stage": "T20"
     },
     {
       "match_no": 10,
       "date": "2026-02-28",
       "time": "7:00 PM",
-      "home_team": "Pakistan/USA",
+      "home_team": "Pakistan",
       "home_team_logo": "https://flagcdn.com/w320/pk.png",
       "away_team": "Sri Lanka",
       "away_team_logo": "https://flagcdn.com/w320/lk.png",
-      "stage": "Super 8"
+      "venue": "Pallekele International Stadium, Kandy",
+      "stage": "T20"
     },
     {
       "match_no": 11,
@@ -143,7 +153,8 @@
       "home_team_logo": "https://flagcdn.com/w320/zw.png",
       "away_team": "South Africa",
       "away_team_logo": "https://flagcdn.com/w320/za.png",
-      "stage": "Super 8"
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "stage": "T20"
     },
     {
       "match_no": 12,
@@ -153,7 +164,8 @@
       "home_team_logo": "https://flagcdn.com/w320/in.png",
       "away_team": "West Indies",
       "away_team_logo": "https://flagcdn.com/w320/vg.png",
-      "stage": "Super 8"
+      "venue": "Eden Gardens, Kolkata",
+      "stage": "T20"
     }
   ]
 }
