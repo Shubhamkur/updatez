@@ -1,0 +1,85 @@
+{
+  "tournament": "Sri Lanka Women tour of West Indies, 2026",
+  "season": "2026",
+  "source": "JioHotstar",
+  "global_streaming_links": [
+    {
+      "name": "FanCode",
+      "url": "https://tv4go.pages.dev/?id=fancode",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/fancode.png"
+    },
+    {
+      "name": "Hotstar",
+      "url": "https://tv4go.pages.dev/?id=hotstar",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg"
+    }
+  ],
+  "matches": [
+    {
+      "match_no": 1,
+      "date": "2026-02-20",
+      "time": "7:00 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 2,
+      "date": "2026-02-22",
+      "time": "7:00 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-02-25",
+      "time": "7:00 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-02-28",
+      "time": "10:30 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "T20"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-03-01",
+      "time": "10:30 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "T20"
+    },
+    {
+      "match_no": 6,
+      "date": "2026-03-03",
+      "time": "10:30 PM",
+      "home_team": "West Indies Women",
+      "home_team_logo": "https://flagcdn.com/w320/vg.png",
+      "away_team": "Sri Lanka Women",
+      "away_team_logo": "https://flagcdn.com/w320/lk.png",
+      "venue": "National Cricket Stadium, St George's, Grenada",
+      "stage": "T20"
+    }
+  ]
+}
