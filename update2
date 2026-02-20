@@ -1,3 +1,99 @@
+{
+  "tournament": "India Women tour of Australia, 2026",
+  "season": "2026",
+  "source": "JioHotstar",
+  "global_streaming_links": [
+    {
+      "name": "Hotstar",
+      "url": "https://tv4go.pages.dev/?id=hotstar",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg"
+    },
+    {
+      "name": "Star Sports 1",
+      "url": "https://tv4go.pages.dev/?id=ss1",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/ss1.png"
+    }
+  ],
+  "matches": [
+    {
+      "match_no": 1,
+      "date": "2026-02-15",
+      "time": "1:45 PM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "Sydney Cricket Ground, Sydney",
+      "stage": "T20"
+    },
+    {
+      "match_no": 2,
+      "date": "2026-02-19",
+      "time": "1:45 PM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "Manuka Oval, Canberra",
+      "stage": "T20"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-02-21",
+      "time": "1:45 PM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "Adelaide Oval, Adelaide",
+      "stage": "T20"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-02-24",
+      "time": "9:00 AM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "The Gabba, Brisbane",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-02-27",
+      "time": "9:00 AM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "Bellerive Oval, Hobart",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 6,
+      "date": "2026-03-01",
+      "time": "9:00 AM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "Bellerive Oval, Hobart",
+      "stage": "ODI"
+    },
+    {
+      "match_no": 7,
+      "date": "2026-03-06",
+      "time": "11:00 AM",
+      "home_team": "Australia Women",
+      "home_team_logo": "https://flagcdn.com/w320/au.png",
+      "away_team": "India Women",
+      "away_team_logo": "https://flagcdn.com/w320/in.png",
+      "venue": "WACA Ground, Perth",
+      "stage": "TEST"
+    }
+  ]
+}
 
 
 
