@@ -8,6 +8,97 @@
       "url": "https://waptv.wapka.xyz",
       "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg"
     },
+
+{
+    "name": "sts1",
+    "url": "https://wap4tv.pages.dev/?id=sts1",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg"
+  },
+  {
+    "name": "sts1h",
+    "url": "https://wap4tv.pages.dev/?id=sts1h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg"
+  },
+  {
+    "name": "sts1hd",
+    "url": "https://wap4tv.pages.dev/?id=sts1hd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg"
+  },
+  {
+    "name": "sts1hhd",
+    "url": "https://wap4tv.pages.dev/?id=sts1hhd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hhd.jpg"
+  },
+  {
+    "name": "sts1kn",
+    "url": "https://wap4tv.pages.dev/?id=sts1kn",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1kn.jpg"
+  },
+  {
+    "name": "sts1tg",
+    "url": "https://wap4tv.pages.dev/?id=sts1tg",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tg.jpg"
+  },
+  {
+    "name": "sts1tghd",
+    "url": "https://wap4tv.pages.dev/?id=sts1tghd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tghd.jpg"
+  },
+  {
+    "name": "sts1tm",
+    "url": "https://wap4tv.pages.dev/?id=sts1tm",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tm.jpg"
+  },
+  {
+    "name": "sts1tmhd",
+    "url": "https://wap4tv.pages.dev/?id=sts1tmhd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tmhd.jpg"
+  },
+  {
+    "name": "sts2",
+    "url": "https://wap4tv.pages.dev/?id=sts2",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg"
+  },
+  {
+    "name": "sts2h",
+    "url": "https://wap4tv.pages.dev/?id=sts2h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png"
+  },
+  {
+    "name": "sts2hd",
+    "url": "https://wap4tv.pages.dev/?id=sts2hd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hd.jpg"
+  },
+  {
+    "name": "sts2hhd",
+    "url": "https://wap4tv.pages.dev/?id=sts2hhd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hhd.png"
+  },
+  {
+    "name": "sts2kn",
+    "url": "https://wap4tv.pages.dev/?id=sts2kn",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2kn.jpg"
+  },
+  {
+    "name": "sts2tg",
+    "url": "https://wap4tv.pages.dev/?id=sts2tg",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tg.jpg"
+  },
+  {
+    "name": "sts2tghd",
+    "url": "https://wap4tv.pages.dev/?id=sts2tghd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tghd.jpg"
+  },
+  {
+    "name": "sts2tm",
+    "url": "https://wap4tv.pages.dev/?id=sts2tm",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tm.jpg"
+  },
+  {
+    "name": "sts2tmhd",
+    "url": "https://wap4tv.pages.dev/?id=sts2tmhd",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tmhd.jpg"
+  },
     {
       "name": "Cricbuzz",
       "url": "https://wap4tv.pages.dev/?id=cricbuzz1",
